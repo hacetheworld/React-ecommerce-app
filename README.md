@@ -1,1 +1,1 @@
-This is a react ecommerce app
+This is a react ecommerce app.
